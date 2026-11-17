@@ -296,3 +296,5 @@ login.microsoftonline.com.matw-portal.com
 142.111.194.73
 37.120.239.187
 134.209.82.225
+tu.edu.ye
+195.94.23.17
